@@ -107,4 +107,4 @@ let Tlist_Exit_OnlyWindow=1
 let g:winManagerWindowLayout='FileExplorer|TagList'
 nmap wm :WMToggle<cr>
 let g:miniBufExplMapCTabSwitchBufs = 1
-
+"2011.11.30
